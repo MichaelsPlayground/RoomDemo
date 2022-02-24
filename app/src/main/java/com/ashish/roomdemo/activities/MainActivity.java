@@ -19,6 +19,9 @@ import com.ashish.roomdemo.model.Person;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
+    // source: https://github.com/ashishrawat2911/RoomDemo
+    // tutorial: https://medium.com/mindorks/using-room-database-android-jetpack-675a89a0e942
+    // funktioniert
     FloatingActionButton floatingActionButton;
     private RecyclerView mRecyclerView;
     private PersonAdaptor mAdapter;
